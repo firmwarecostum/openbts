@@ -15,6 +15,9 @@
 
 */
 // Written by Pat Thompson
+#include <ostream>
+#include <iostream>
+#include <sstream>
 #define LOG_GROUP LogGroup::Control		// Can set Log.Level.Control for debugging
 #include "L3StateMachine.h"
 #include "L3CallControl.h"
