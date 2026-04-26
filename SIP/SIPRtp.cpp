@@ -20,6 +20,7 @@
 #include "SIPRtp.h"
 #include "SIPBase.h"
 #include "SIP2Interface.h"
+#include <sys/types.h>
 
 #include <ortp/telephonyevents.h>
 #undef WARNING		// The nimrods defined this to "warning"
