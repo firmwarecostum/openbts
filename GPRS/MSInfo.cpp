@@ -13,6 +13,9 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 */
 
+#include <ostream>
+#include <iostream>
+#include <sstream>
 #define LOG_GROUP LogGroup::GPRS		// Can set Log.Level.GPRS for debugging
 
 #include "MSInfo.h"
