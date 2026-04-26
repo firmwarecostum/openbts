@@ -24,6 +24,9 @@
 #include "Sgsn.h"
 #include <string.h>		// for strchr
 #include <iomanip>		// For fmtflags, setprecision
+#include <ostream>
+#include <iostream>
+#include <sstream>
 
 namespace GPRS {
 
