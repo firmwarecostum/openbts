@@ -34,6 +34,10 @@ using namespace SIP;
 using namespace Utils;
 #define CASENAME(x) case x: return #x;
 #define SRB3 3
+#include <string.h>
+#include <ostream>
+#include <iostream>
+#include <sstream>
 
 
 namespace SGSN {
