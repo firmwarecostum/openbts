@@ -13,6 +13,9 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 */
 
+#include <ostream>
+#include <iostream>
+#include <sstream>
 #include <list>
 #if RN_UMTS
 #include <SIPInterface.h>
