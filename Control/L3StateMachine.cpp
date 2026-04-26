@@ -32,6 +32,10 @@
 #include <RRLPServer.h>
 #include <Globals.h>
 #include <typeinfo>
+#include <string.h>
+#include <ostream>
+#include <iostream>
+#include <sstream>
 
 using namespace GSM;
 namespace Control {
